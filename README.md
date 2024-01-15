@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Aub<br><br>- 🔭 I’m a novice programmer developer<br>- 📚 I'm currently learning in HSE University<br>- ⚡ In my free time I programming</p>
+<p align="left">I'm Aub<br><br>- 🔭 I’m a novice programmer developer<br>- 📚 I am currently studying software engineering at the Higher School of Economics<br>- ⚡ In my free time I programming</p>
 
 ###
 
@@ -56,6 +56,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/sqlite/sqlite-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
 </div>
 
 ###
